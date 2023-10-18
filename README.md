@@ -6,7 +6,7 @@ There are altogether three categories of users—administrator, staff, and kid's
 
 **_Guardians_** have the option to provide advance notice of their kid's attendance, facilitating smoother preparation of meals for the kids. The system allows guardians to access announcements and activities, preventing the loss of important information.
 
-The system is developed using the knowledge derived from the course of Database, System Analysis and Design and System Development Technology.  
+The system is developed using the knowledge derived from the course of **Database, System Analysis and Design and System Development Technology**.  
 
 
 
